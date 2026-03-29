@@ -47,13 +47,13 @@ Step 5: Repeat Until Convergence
     Reassign points
     Stop when no changes occur
 
-Dataset
+Dataset :
 The dataset includes:
       Age
       Annual Income
       User Ratings
 
-Results
+Results :
       Users were successfully grouped into distinct clusters
       Each cluster represents a different type of customer behavior
      Insights can be used for:
@@ -61,8 +61,8 @@ Results
           Customer targeting
         Marketing optimization
 
-Conclusion
+Conclusion :
        This project demonstrates how clustering techniques like K-Means can be effectively used to segment users and generate actionable insights. Such segmentation plays a key role in improving user experience and driving business growth in e-commerce platforms.
 
-Author
+Author :
     Gopika Sanjeevini
