@@ -1,8 +1,8 @@
 Amazon User Segmentation
+
 Project Overview
 
-      This project focuses on segmenting Amazon users into distinct groups based on their purchasing behavior and preferences using the K-Means Clustering algorithm. By analyzing user data such as annual income and product ratings & product ratings and age, the project helps identify meaningful customer segments that can be leveraged for targeted marketing and personalized recommendations.
-      Amazon-like platforms personalize user experiences by analyzing past interactions. This project simulates that concept using clustering techniques to group similar users together.
+      This project focuses on segmenting Amazon users into distinct groups based on their purchasing behavior and preferences using the K-Means Clustering algorithm. By analyzing user data such as annual income and product ratings & product ratings and age, the project helps identify meaningful customer segments
 
 Objectives
 
